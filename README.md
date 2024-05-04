@@ -33,7 +33,7 @@ Materi latihan ini yaitu <b> [Membangun Web Service Menggunakan Node.js](https:/
 5. Untuk menghindari masalah pada percobaan notes app, setting terlebih dahulu browser kalian:
     * Buka link url ini chrome://flags/#unsafely-treat-insecure-origin-as-secure<br>
     * pada bagian Block insecure private network requests, pilih Disabled.<br>
-    * pada bagian Insecure origins treated as secure, ubah menjadi ``` http://localhost,http://localhost:5000,http:http://notesapp-v1.dicodingacademy.com/```<br>
+    * pada bagian Insecure origins treated as secure, ubah menjadi ``` http://localhost,http://localhost:5000,http://notesapp-v1.dicodingacademy.com/```<br>
 ![image](https://github.com/Jay-Jo9802/notes-app-back-end-johan/assets/130848869/e9f2afc3-5835-46c5-b8f7-f44afb475cc9)
 6. Buka link http://notesapp-v1.dicodingacademy.com/ untuk mengakses Notes App<br>
 ![image](https://github.com/Jay-Jo9802/notes-app-back-end-johan/assets/130848869/b2dd1fec-ef55-4c07-a0da-14da90b746e9)
