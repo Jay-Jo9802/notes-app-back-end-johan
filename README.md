@@ -28,21 +28,21 @@ Materi latihan ini yaitu <b> [Membangun Web Service Menggunakan Node.js](https:/
 ```npm run start```
 4. Setelah localhost berjalan, bisa check di browser dengan mengetikkan:<br>
 ```http://localhost:5000/```
-    * jika muncul seperti gambar dibawah, tandanya sudah berhasil.
+    * jika muncul seperti gambar dibawah, tandanya sudah berhasil.<br>
 ![image](https://github.com/Jay-Jo9802/notes-app-back-end-johan/assets/130848869/73e35a85-6158-4622-aaf2-b86fbc1bc5f8)
 5. Untuk menghindari masalah pada percobaan notes app, setting terlebih dahulu browser kalian:
     * Buka link url ini chrome://flags/#unsafely-treat-insecure-origin-as-secure<br>
     * pada bagian Block insecure private network requests, pilih Disabled.<br>
-    * pada bagian Insecure origins treated as secure, ubah menjadi ``` http://localhost,http://localhost:5000,http:http://notesapp-v1.dicodingacademy.com/```
+    * pada bagian Insecure origins treated as secure, ubah menjadi ``` http://localhost,http://localhost:5000,http:http://notesapp-v1.dicodingacademy.com/```<br>
 ![image](https://github.com/Jay-Jo9802/notes-app-back-end-johan/assets/130848869/e9f2afc3-5835-46c5-b8f7-f44afb475cc9)
 6. Buka link http://notesapp-v1.dicodingacademy.com/ untuk mengakses Notes App<br>
 ![image](https://github.com/Jay-Jo9802/notes-app-back-end-johan/assets/130848869/b2dd1fec-ef55-4c07-a0da-14da90b746e9)
 7. Klik Change URL, lalu masukkan localhost sesuai yang ada pada project, yaitu:<br>
 ```localhost:5000```<br>
 ![image](https://github.com/Jay-Jo9802/notes-app-back-end-johan/assets/130848869/ab1b85ff-1de3-4a0a-9fc0-7f3274a416cb)
-8. Klik Add Note, lalu masukkan teks sesuai yang diinginkan, lalu klik Save Note
+8. Klik Add Note, lalu masukkan teks sesuai yang diinginkan, lalu klik Save Note<br>
 ![image](https://github.com/Jay-Jo9802/notes-app-back-end-johan/assets/130848869/6e9d849f-8636-477d-979a-8b86a69dfe86)
-9. Yeayy!! Kita berhasil membuat Note Apps kita :)
+9. Yeayy!! Kita berhasil membuat Note Apps kita :)<br>
 ![image](https://github.com/Jay-Jo9802/notes-app-back-end-johan/assets/130848869/cdcf8d93-76c4-4cd5-9ce7-2834b54633f8)
 10. Jika sudah selesai eksplorasi, mohon kembalikan fitur browser seperti semula
   <br>
